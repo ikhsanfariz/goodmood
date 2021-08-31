@@ -1,0 +1,105 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpeg"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "title": "Paksakan Ibadah",
+      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "duration": "101",
+      "lyrics": "squo;azhiimi</p>" },
+    {
+      "id": 2,
+      "name_category": "Khalid Basalamah",
+      "title": "Dosa Membawa Keburukan",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
+      "duration": "54",
+      "lyrics": "" },
+    {
+      "id": 3,
+      "name_category": "Hanan Attaki",
+      "title": "Lapang Dada",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
+      "duration": "61",
+      "lyrics": "squo;azhiimi</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Ammi Nur Bait",
+      "title": "Cambuk Untuk Kita Semua",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
+      "duration": "240",
+      "lyrics": "squo;azhiimi</p>"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Adi Hidayat",
+      "title": "Selalu Tenang karena ada Allah",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
+      "duration": "235",
+      "lyrics": "squo;azhiimi</p>"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Mr. Kim",
+      "title": "Source Code Mp3 Player",
+      "image": "file:///android_asset/image/kim.jpeg",
+      "link_mp3": "mp3/kim.ogg",
+      "duration": "36",
+      "lyrics": ""
+    }
+  ]
+}
